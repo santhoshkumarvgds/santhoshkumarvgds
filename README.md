@@ -1,11 +1,11 @@
 <div align="center">
 
-  # Hi there, I'm Santhosh Kumar V 👋
+  # Santhosh kumar V
+  ### Senior Product Engineer • React Native • React • Node.js
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Senior+Product+Engineer;React+Native+%26+Full-Stack+Architect;3.6M%2B+App+Downloads+Scaled;Building+High-Performance+Web+%26+Mobile)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Senior+Product+Engineer+%7C+5%2B+Years;React+Native+%E2%80%A2+React.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js;7.6M%2B+Users+%E2%80%A2+3.6M%2B+App+Downloads;High-Performance+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
 
-  **Senior Product Engineer (5+ Yrs)** • Bangalore / Namakkal, India  
-  *Architecting scalable, resilient web & mobile platforms serving millions of users.*
+  **Bangalore / Namakkal, India**
 
   <p align="center">
     <a href="https://santhoshkumarvgds.github.io"><img src="https://img.shields.io/badge/Portfolio-santhoshkumarvgds.github.io-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
@@ -18,84 +18,60 @@
 
 ---
 
-### ⚡ Professional Summary & Scale
+### ⚡ Summary & Impact at a Glance
 
-```yaml
-Role: Senior Product Engineer
-Experience: 5+ Years (Full-Stack & Mobile App Development)
-Production Scale: 3.6M+ Mobile Downloads across iOS & Android
-Platform Reliability: 99.92% Crash-Free Session Rate | 95%+ OTA Success Rate (CodePush)
-Core Domains: High-Scale E-Commerce, AI-Assisted Sports Platforms, B2B SaaS, Design Tooling
+Senior Product Engineer with **5+ years of experience** building and scaling mobile and web applications. Led end-to-end feature delivery across frontend, mobile, and backend layers for **Sony Software India** and **Aditya Birla Fashion & Retail (ABFRL)**.
+
+```
+┌──────────────────────────┬──────────────────────────┬──────────────────────────┐
+│          3.6M+           │          99.92%          │           95%+           │
+│   Mobile App Downloads   │  Crash-Free Session Rate │  OTA Deploy Success Rate │
+└──────────────────────────┴──────────────────────────┴──────────────────────────┘
 ```
 
-- 🚀 **Senior Product Engineer** with 5+ years of experience architecting, developing, and deploying scalable, high-performance applications serving millions of users across B2C and B2B platforms.
-- 🏢 Track record leading end-to-end delivery for **Sony Software India** and **Aditya Birla Fashion & Retail (ABFRL)**, from system design and architecture to production deployment and performance optimization.
-- 🛠️ Core expertise in **React Native, React.js, TypeScript, Node.js, Fastify/Express, PostgreSQL, and GraphQL**.
+- **Production Reach:** Engineered web and mobile ecosystems serving **7.6M+ registered users** across 7 premier retail brands, collectively exceeding **3.6 million mobile app downloads**.
+- **Stability & Observability:** Sustained a **99.92% crash-free session rate** across releases through proactive APM monitoring, error boundaries, and telemetry tracking.
+- **Deployment Velocity:** Automated staged Over-The-Air (OTA) deployments through **CodePush (~95% rollout success rate)**, pushing critical JavaScript and asset hotfixes without app-store review delays.
+- **Performance Engineering:** Reduced app startup times by **~50%** via selective bundle splitting, memory optimization, and optimized asset caching pipelines.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Core Technical Stack
 
 <div align="center">
-
-#### **Frontend & Mobile Architecture**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,html,css,tailwind" />
-</a>
-
-#### **Backend, APIs & Databases**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastify,graphql,postgres,mongodb,prisma,java" />
-</a>
-
-#### **DevOps, Testing, Cloud & Tools**
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,firebase,jenkins,git,github,jest,bash" />
-</a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,redux,nodejs,express,fastify,graphql,postgres,mongodb,docker,jenkins,git,firebase" />
+  </a>
 </div>
 
-<details>
-  <summary><b>Detailed Technology Inventory</b></summary>
-  <br/>
-
-- **Languages:** JavaScript (ES6+), TypeScript, SQL, Node.js, Java
-- **Frameworks & Libraries:** React.js, React Native, Next.js, Redux, MobX, Realm, Expo, Express, Fastify
-- **Databases & Back-End:** PostgreSQL (Prisma, Sequelize), MongoDB, REST APIs, GraphQL
-- **Testing & Tools:** Git, Jest, Detox, Firebase, Docker (Basic), Jenkins, CI/CD, CodePush
-- **Analytics & Growth:** Firebase Analytics, CleverTap, AppsFlyer, Adjust, Adobe Analytics
-</details>
+- **Mobile:** React Native (CLI & Expo), Redux, MobX, Realm, CodePush, Detox, Jest
+- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5/CSS3
+- **Backend & APIs:** Node.js, Express, Fastify, REST APIs, GraphQL, Java
+- **Databases & ORMs:** PostgreSQL (Prisma, Sequelize), MongoDB, MySQL
+- **DevOps, CI/CD & Cloud:** Git, Docker (Basic), Jenkins CI/CD, Firebase, Linux
 
 ---
 
-### 🏢 Enterprise Experience & Production Work
+### 🚀 Flagship Engineering Work
 
-#### 🎯 **Pulse Live Sport (Sony Software India)**
-*Senior Software Engineer — React Native, React & Java*
-- Developed a dynamic sports coaching platform supporting multiple sports, configurable regions/countries, academic programs, and user types.
-- Engineered tailored workflows for **Parents, Athletes/Children, and Coaches**.
-- Built video-based training workflows with **AI-assisted first-level evaluation** and automated escalation to human coaches for personalized drill recommendations and review.
+#### 🛍️ **Multi-Brand E-Commerce Super App (Aditya Birla Fashion & Retail)**
+*Senior Product Engineer • React Native, React & Node.js*
+- **Unified Brand Architecture:** Built a shared client architecture supporting **Louis Philippe, Van Heusen, Peter England, Allen Solly, Reebok, Forever21, and American Eagle** from a centralized core.
+- **Performance Optimization:** Reduced cold-start latencies by approximately **50%** and enhanced product-listing scroll performance through list virtualization, lazy component initialization, and WebP image pipelines.
+- **Staged OTA Pipeline:** Configured multi-stage CodePush release tracks (internal alpha → staging canary → gradual production rollout), ensuring safe and monitored continuous delivery.
+- **Standardized Component Engine:** Developed a shared React Native design and workflow package, unifying checkout, cart, address management, and navigation flows across multiple brand teams.
+- **Commerce & Payment Integrations:** Engineered end-to-end purchasing flows with multi-gateway payment processing (Juspay, Paytm, Razorpay), omnichannel loyalty credits, and real-time order tracking.
 
-#### 🛍️ **Super App & E-Commerce Platform (Aditya Birla Fashion & Retail)**
-*Senior Product Engineer — React Native, React & Node.js*
-- Architected and delivered a unified multi-brand Super App integrating **Louis Philippe, Van Heusen, Peter England, Allen Solly, Reebok, Forever21, American Eagle, and Simon Carter**.
-- Scaled 8 mobile apps across iOS & Android serving **3.6M+ downloads**, achieving a **99.92% crash-free rate** and **95%+ OTA update success via CodePush**.
-- Engineered a modular, reusable React & React Native template to accelerate future brand app rollouts.
+#### 🎯 **Pulse Live Sport — AI-Assisted Coaching Platform (Sony Software India)**
+*Senior Software Engineer • React Native, React & Java*
+- **Role-Tailored Workflows:** Developed dedicated, permission-gated workflows for **Parents, Athletes, and Coaches** supporting customizable academic and athletic curricula.
+- **AI + Coach Evaluation Pipeline:** Built video upload workflows with **first-level automated AI drill evaluation**, escalating submissions to human coaches for verified feedback, scorecards, and tailored drill recommendations.
+- **Configurable Architecture:** Structured drill configurations, leaderboards, and scoring criteria into dynamic, data-driven components to support new sports disciplines without structural app changes.
 
-#### 🎨 **Figma Collaboration Platform (Sony Software India)**
-- Developed a React-based **Figma plugin** enabling designers to collaborate directly inside the canvas, accompanied by a React management web app and Java backend REST services.
-
-#### 🚗 **Autoinn Dealership Management Platform**
-- Delivered a dealer-focused B2B showroom platform (web & mobile) across thousands of dealerships with role-based access for inventory, orders, customer test drives, and logistics.
-
----
-
-### 💡 Notable Solutions & Projects
-
-- **Schedula (Healthcare):** Cross-platform doctor appointment booking app with role-based authentication and scheduling workflows.
-- **HubApp (Food-Tech / SaaS):** Web and mobile solution for hotels and cloud kitchens unifying Swiggy and Zomato orders into a centralized reporting dashboard.
-- **LifeSync (Productivity):** Habit and goal tracking mobile app featuring daily cadence notifications and personal progress analytics.
-- **99land (Real Estate):** Web and mobile property listings platform with interactive map integration, role-based access, and secure backend APIs.
+#### 🎨 **Figma Real-Time Collaboration Platform (Sony Software India)**
+*Senior Software Engineer • React & Java*
+- **In-Canvas Figma Plugin:** Developed a React-based Figma plugin enabling cross-functional design and engineering teams to inspect design tokens, annotate layouts, and collaborate in real time.
+- **Full-Stack Coordination:** Built the companion React web management app and integrated it with Java REST APIs for document versioning, asset synchronization, and access control.
 
 ---
 
@@ -112,13 +88,9 @@ Core Domains: High-Scale E-Commerce, AI-Assisted Sports Platforms, B2B SaaS, Des
 
 ---
 
-### 📬 Get In Touch
+### 📬 Let's Connect
 
 - 🌐 **Portfolio:** [santhoshkumarvgds.github.io](https://santhoshkumarvgds.github.io)
 - 💼 **LinkedIn:** [linkedin.com/in/santhoshkumarvgds](https://www.linkedin.com/in/santhoshkumarvgds)
 - ✉️ **Email:** [santhoshkumarvgds@gmail.com](mailto:santhoshkumarvgds@gmail.com)
 - 📱 **Phone:** +91 9514795745
-
-<div align="center">
-  <sub>Designed & engineered by <b>Santhosh Kumar V</b></sub>
-</div>
